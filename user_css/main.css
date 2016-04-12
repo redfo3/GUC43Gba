@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 html, body {
     padding: 0;
     margin: 0;
@@ -13,15 +14,15 @@ canvas {
     height: 100%;
 }
 span {
-    color: red;
+    color: #E74C3C;
     bottom: 0px;
     position: absolute;
     right: 0px;
     display: none;
-    font-size: 40pt;
+    font-size: 35pt;
     font-weight: bold;
     text-align: right;
     vertical-align: bottom;
-    font-family: monospace;
+    font-family: "Roboto";
     display:none;
 }
