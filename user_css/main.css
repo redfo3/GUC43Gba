@@ -5,6 +5,7 @@ html, body {
     width: 100%;
     height: 100%;
     cursor: none;
+    font-family: "Roboto";
 }
 canvas {
     position: absolute;
@@ -23,6 +24,5 @@ span {
     font-weight: bold;
     text-align: right;
     vertical-align: bottom;
-    font-family: "Roboto";
     display:none;
 }
